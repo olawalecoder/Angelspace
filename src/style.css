@@ -9,11 +9,11 @@ body {
 }
 
 #home-section {
-background: url(./assets/homesection.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-background-attachment: fixed;
-min-height: 700px;
+  background: url(./assets/homesection.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
 }
 
 #home-section .dark-overlay {
