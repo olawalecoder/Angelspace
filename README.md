@@ -3,7 +3,7 @@
 This is is single page website styled with bootstrap only. It is a platform that allows users to register and create pitch decks for their brands.
 
 ## Preview
-![Preview](./angelscreen.png)
+![Preview](./assets/angelscreen.png)
 
 This website is fully responsive to all devices. Be sure to give a star if you like it.
 
